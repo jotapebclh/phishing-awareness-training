@@ -1,2 +1,3 @@
-# phishing-awareness-training
-Awareness training to understand and prevent Phishing attacks.
+# 🛡️ Phishing Awareness Training  
+
+[🇧🇷 Versão em Português](./README.pt-BR.md) | [🌍 English Version](./README.md)
